@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*_screenshots/
+*_extracts/
+*_sitemap_inventory.csv
+*_sitemap_summary.md
+*_bible.md
+!.github/

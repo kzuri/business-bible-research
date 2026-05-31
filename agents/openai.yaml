@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Bible Research"
+  short_description: "Create sales-ready company bibles"
+  default_prompt: "Use $business-bible-research to create a comprehensive business bible for this company, including website screenshots, source URLs, customer/use-case analysis, competitor positioning, pain points, and sales/CEO-ready recommendations."
